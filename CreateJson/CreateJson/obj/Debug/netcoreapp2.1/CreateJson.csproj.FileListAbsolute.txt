@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/bin/Debug/netcoreapp2.1/CreateJson.deps.json
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/bin/Debug/netcoreapp2.1/CreateJson.runtimeconfig.json
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/bin/Debug/netcoreapp2.1/CreateJson.runtimeconfig.dev.json
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/bin/Debug/netcoreapp2.1/CreateJson.dll
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/bin/Debug/netcoreapp2.1/CreateJson.pdb
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/obj/Debug/netcoreapp2.1/CreateJson.csprojAssemblyReference.cache
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/obj/Debug/netcoreapp2.1/CreateJson.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/obj/Debug/netcoreapp2.1/CreateJson.AssemblyInfo.cs
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/obj/Debug/netcoreapp2.1/CreateJson.dll
+/Users/wendy/Projects/Twitter/TwitterAmWriting/CreateJson/CreateJson/obj/Debug/netcoreapp2.1/CreateJson.pdb
