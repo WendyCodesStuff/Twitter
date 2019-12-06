@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/obj/Debug/netcoreapp2.1/QuotesJson.csprojAssemblyReference.cache
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/obj/Debug/netcoreapp2.1/QuotesJson.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/obj/Debug/netcoreapp2.1/QuotesJson.AssemblyInfo.cs
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/bin/Debug/netcoreapp2.1/QuotesJson.deps.json
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/bin/Debug/netcoreapp2.1/QuotesJson.runtimeconfig.json
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/bin/Debug/netcoreapp2.1/QuotesJson.runtimeconfig.dev.json
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/bin/Debug/netcoreapp2.1/QuotesJson.dll
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/bin/Debug/netcoreapp2.1/QuotesJson.pdb
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/obj/Debug/netcoreapp2.1/QuotesJson.dll
+/Users/wendy/Projects/Twitter/QuotesJson/QuotesJson/obj/Debug/netcoreapp2.1/QuotesJson.pdb
